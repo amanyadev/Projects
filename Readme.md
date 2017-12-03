@@ -7,7 +7,7 @@
 /all operations are done using basic functions rather than 
 /complex things like structures and lists and other data types
 ------------------------------------------------------------------
-Concepts used :
+#Concepts used :
 
 # switch() case
 # for loops
